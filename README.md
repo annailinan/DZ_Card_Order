@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/97j4udjo2f0e5f3h?svg=true)](https://ci.appveyor.com/project/annailinan/dz-card-order)
